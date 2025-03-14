@@ -1,0 +1,1 @@
+<?php  define('PAYTM_MERCHANT_KEY', ''); ?>
